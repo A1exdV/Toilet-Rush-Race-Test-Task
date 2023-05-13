@@ -4,6 +4,8 @@ Copy of Toilet Rush Race
 ## ФИО: де Винча Алексей Михайлович
 hh: https://hh.ru/resume/8185d0ffff08f892de0039ed1f78334675324d ( или [pdf](https://github.com/A1exdV/Toilet-Rush-Race-Test-Task/blob/main/Де%20Винча%20Алексей%20Михайлович.pdf))
 
+## [Web Version to play](https://a1exdv.github.io/Toilet-Rush-Race-Test-Task/)
+
 ## Ресурсы и пакеты:
 
   Визуал частично скопирован мной с оригинальной игры. Все остальное сделано функционалом Юнити.
